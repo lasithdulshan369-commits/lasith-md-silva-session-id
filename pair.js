@@ -27,8 +27,8 @@ function randomMegaId(length = 6, numberLength = 4) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-  email: 'www.qadeem950@gmail.com', // // Your Mega A/c Email Here
-  password: '@anayatkhan1' // Your Mega A/c Password Here
+  email: 'lasithdulshan369@gmail.com', // // Your Mega A/c Email Here
+  password: 'lasith051' // Your Mega A/c Password Here
 }).ready
         console.log('Mega storage initialized.');
         if (!fs.existsSync(credsPath)) {
@@ -108,10 +108,10 @@ router.get('/', async (req, res) => {
 ______________________________
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Silva MD Bot*
+*💪 Empowering Your Experience with LASITH MD Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/SilvaTechB/silva-md-bot
+🔗 https://github.com/lasithdulshan369-commits/lasithmd-arsalam.git
 
 *💭 Need help? Join our support groups:*
 📢 💬
@@ -120,7 +120,7 @@ https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v
 *📚 Learn & Explore More with Tutorials:*
 🪄 YouTube Channel https://www.youtube.com/@silvaedits254
 
-*🥀 Powered by Silva MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by LASITH MD Bot & LASITH Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 ______________________________
 
